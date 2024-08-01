@@ -1,13 +1,11 @@
 import { useState } from 'react'
-import { TrialSignUpForm } from './components/TrialSignUpForm'
+import { Home } from './components/Home'
 import './App.css'
 
 function App() {
 
   return (
-    <>
-      <TrialSignUpForm/>
-    </>
+    <Home />
   )
 }
 
