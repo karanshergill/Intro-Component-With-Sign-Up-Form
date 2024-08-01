@@ -5,7 +5,9 @@ import './App.css'
 function App() {
 
   return (
-    <Home />
+    <main className='min-h-screen w-full bg-image-small md:bg-image-large bg-color-red flex items-center justify-center'>
+      <Home />
+    </main>
   )
 }
 
