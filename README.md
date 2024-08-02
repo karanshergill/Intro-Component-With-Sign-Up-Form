@@ -1,8 +1,9 @@
-# React + Vite
+# Frontend Mentor | Intro Component with Sign Up Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Desktop view:
 
-Currently, two official plugins are available:
+![desktop](https://github.com/user-attachments/assets/17a1d549-3312-4e68-829c-98db477cb39e)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Mobile view:
+
+![mobile](https://github.com/user-attachments/assets/414a7cab-7c43-4ea7-b88c-d5855a368e6b)
